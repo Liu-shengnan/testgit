@@ -12,6 +12,7 @@ public class Hello {
             System.out.println("更新3");
             System.out.println("更新4");
             System.out.println("创建分支");
+            System.out.println("分支首次添加");
             return "Hello "+name+"!";
 
         }
